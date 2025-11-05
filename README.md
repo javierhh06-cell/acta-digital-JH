@@ -1,1 +1,29 @@
 # acta-digital-JH
+
+app.py
+import streamlit as st
+
+st.title("📜 Acta Digital")
+st.write("Bienvenido a la aplicación de actas digitales.")
+st.text("Esta app está construida con Streamlit.")
+Añadir archivo app.py
+
+# 📜 Acta Digital
+
+Aplicación web construida con **Streamlit** para gestionar actas digitales.
+
+## 🚀 Cómo ejecutar la aplicación
+
+Si estás en tu ordenador:
+
+1. Instala Streamlit:
+   ```bash
+   pip install streamlit
+
+streamlit run app.py
+
+Actualizar README.md con instrucciones
+
+acta-digital/
+├── app.py
+└── README.md
